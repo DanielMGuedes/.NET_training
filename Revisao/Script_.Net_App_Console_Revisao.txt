@@ -1,0 +1,172 @@
+Microsoft Windows [versão 10.0.19041.572]
+(c) 2020 Microsoft Corporation. Todos os direitos reservados.
+
+C:\Users\danie> cd /
+
+C:\>dir
+ O volume na unidade C não tem nome.
+ O Número de Série do Volume é 1AE5-A7CE
+
+ Pasta de C:\
+
+24/09/2020  11:02        32.271.467 exe021.mp3
+28/10/2020  16:50    <DIR>          Intel
+07/12/2019  06:14    <DIR>          PerfLogs
+07/11/2020  07:31    <DIR>          Program Files
+10/10/2020  08:23    <DIR>          Program Files (x86)
+16/09/2020  10:17    <DIR>          Users
+15/10/2020  19:13    <DIR>          Windows
+20/10/2020  22:50    <DIR>          workspace
+               1 arquivo(s)     32.271.467 bytes
+               7 pasta(s)   307.531.759.616 bytes disponíveis
+
+C:\>cd d:
+D:\
+
+C:\>dir d:
+ O volume na unidade D não tem nome.
+ O Número de Série do Volume é A234-85EA
+
+ Pasta de D:\
+
+06/10/2020  19:05    <DIR>          360
+17/10/2020  00:25    <DIR>          Análise de Dados
+08/10/2020  09:19           744.000 Apresentação.docx
+02/11/2020  22:51    <DIR>          Arquivos de Programas
+29/10/2020  19:47    <DIR>          Camtasia Studio 9
+03/11/2020  21:42    <DIR>          Controle Pessoal
+22/10/2020  10:02    <DIR>          CURSOS
+07/11/2020  20:04    <DIR>          Downloads
+31/10/2020  10:31           967.398 ESDE - Reposição 31.10.2020.png
+07/11/2020  09:03    <DIR>          GITHUB
+27/10/2020  09:06    <DIR>          MCTI
+25/07/2019  09:58           522.431 Módulo I - Serviços Públicos e Direitos dos Usuários.pdf
+25/07/2019  09:58           623.078 Módulo II - Atuação da Ouvidoria.pdf
+25/07/2019  09:58           660.066 Módulo III - Simplificação e Avaliação dos Serviços Públicos.pdf
+22/09/2020  23:10           112.751 Plano de Ação com Cronograma - PDI.xlsx
+23/09/2020  07:50            66.942 Plano de Desenvolvimento Individual - Daniel_Guedes - Entregue.docx
+23/09/2020  07:55            59.575 Plano de Desenvolvimento Individual - Daniel_Guedes - Entregue.odt
+03/11/2020  12:22           609.945 REcibo.pdf
+06/10/2020  09:50            61.006 Senhas AMBARI.docx
+17/09/2020  11:26         4.029.766 Slides do Curso.pdf
+31/10/2020  10:37           896.714 v2 - ESDE - Reposição 31.10.2020.png
+27/10/2020  11:39    <DIR>          VisualStudioCode
+11/10/2020  11:54    <DIR>          _Sites - Analisando Dados
+              12 arquivo(s)      9.353.672 bytes
+              11 pasta(s)   488.317.677.568 bytes disponíveis
+
+C:\>cd d:\
+
+C:\>d:
+
+d:\>dir
+ O volume na unidade D não tem nome.
+ O Número de Série do Volume é A234-85EA
+
+ Pasta de d:\
+
+06/10/2020  19:05    <DIR>          360
+17/10/2020  00:25    <DIR>          Análise de Dados
+08/10/2020  09:19           744.000 Apresentação.docx
+02/11/2020  22:51    <DIR>          Arquivos de Programas
+29/10/2020  19:47    <DIR>          Camtasia Studio 9
+03/11/2020  21:42    <DIR>          Controle Pessoal
+22/10/2020  10:02    <DIR>          CURSOS
+07/11/2020  20:04    <DIR>          Downloads
+31/10/2020  10:31           967.398 ESDE - Reposição 31.10.2020.png
+07/11/2020  09:03    <DIR>          GITHUB
+27/10/2020  09:06    <DIR>          MCTI
+25/07/2019  09:58           522.431 Módulo I - Serviços Públicos e Direitos dos Usuários.pdf
+25/07/2019  09:58           623.078 Módulo II - Atuação da Ouvidoria.pdf
+25/07/2019  09:58           660.066 Módulo III - Simplificação e Avaliação dos Serviços Públicos.pdf
+22/09/2020  23:10           112.751 Plano de Ação com Cronograma - PDI.xlsx
+23/09/2020  07:50            66.942 Plano de Desenvolvimento Individual - Daniel_Guedes - Entregue.docx
+23/09/2020  07:55            59.575 Plano de Desenvolvimento Individual - Daniel_Guedes - Entregue.odt
+03/11/2020  12:22           609.945 REcibo.pdf
+06/10/2020  09:50            61.006 Senhas AMBARI.docx
+17/09/2020  11:26         4.029.766 Slides do Curso.pdf
+31/10/2020  10:37           896.714 v2 - ESDE - Reposição 31.10.2020.png
+27/10/2020  11:39    <DIR>          VisualStudioCode
+11/10/2020  11:54    <DIR>          _Sites - Analisando Dados
+              12 arquivo(s)      9.353.672 bytes
+              11 pasta(s)   488.317.677.568 bytes disponíveis
+
+d:\>cd GITHUB
+
+d:\GITHUB>DIR
+ O volume na unidade D não tem nome.
+ O Número de Série do Volume é A234-85EA
+
+ Pasta de d:\GITHUB
+
+07/11/2020  09:03    <DIR>          .
+07/11/2020  09:03    <DIR>          ..
+07/11/2020  12:28    <DIR>          .NET_training
+24/10/2020  19:04            31.795 agendacat - Img.Git.png
+29/10/2020  21:40    <DIR>          Bootcamp_DIO_CloneSiteNETFLIX
+11/10/2020  10:39    <DIR>          cursoemvideo-html5
+11/10/2020  10:40    <DIR>          cursoemvideo-python
+03/11/2020  14:31    <DIR>          digital_innovation_one
+20/10/2020  07:45    <DIR>          Exercicios_Python
+02/11/2020  09:31    <DIR>          Imagens
+26/10/2020  22:34    <DIR>          imersao-dados-2-2020
+22/10/2020  10:06    <DIR>          POS_DataScience_and_BidData_Analytics
+30/10/2020  19:25    <DIR>          Projeto-site
+02/11/2020  09:32    <DIR>          Projeto_DataAnalytics_ENEM_2019
+22/10/2020  16:11            62.812 Senha - 2passos.pdf
+30/10/2020  08:16    <DIR>          snakegame_personalnerd
+               2 arquivo(s)         94.607 bytes
+              14 pasta(s)   488.317.677.568 bytes disponíveis
+
+d:\GITHUB>CD .NET_training
+
+d:\GITHUB\.NET_training>c
+'c' não é reconhecido como um comando interno
+ou externo, um programa operável ou um arquivo em lotes.
+
+d:\GITHUB\.NET_training>dotnet new console -n Revisao
+The template "Console Application" was created successfully.
+
+Processing post-creation actions...
+Running 'dotnet restore' on Revisao\Revisao.csproj...
+  Determinando os projetos a serem restaurados...
+  d:\GITHUB\.NET_training\Revisao\Revisao.csproj restaurado (em 132 ms).
+
+Restore succeeded.
+
+
+d:\GITHUB\.NET_training> cd Revisao
+
+d:\GITHUB\.NET_training\Revisao>code .
+
+d:\GITHUB\.NET_training\Revisao>dotnet run
+Informe a opção desejada:
+1 - Inseriri novo aluno
+2 - Listar alunos
+3 - Calcular média geral
+X - SAIR
+
+1
+Informe a opção desejada:
+1 - Inseriri novo aluno
+2 - Listar alunos
+3 - Calcular média geral
+X - SAIR
+
+2
+Informe a opção desejada:
+1 - Inseriri novo aluno
+2 - Listar alunos
+3 - Calcular média geral
+X - SAIR
+
+3
+Informe a opção desejada:
+1 - Inseriri novo aluno
+2 - Listar alunos
+3 - Calcular média geral
+X - SAIR
+
+X
+
+d:\GITHUB\.NET_training\Revisao>

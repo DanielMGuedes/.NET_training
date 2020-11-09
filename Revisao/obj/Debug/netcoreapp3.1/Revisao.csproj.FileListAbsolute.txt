@@ -1,0 +1,13 @@
+d:\GITHUB\.NET_training\Revisao\bin\Debug\netcoreapp3.1\Revisao.exe
+d:\GITHUB\.NET_training\Revisao\bin\Debug\netcoreapp3.1\Revisao.deps.json
+d:\GITHUB\.NET_training\Revisao\bin\Debug\netcoreapp3.1\Revisao.runtimeconfig.json
+d:\GITHUB\.NET_training\Revisao\bin\Debug\netcoreapp3.1\Revisao.runtimeconfig.dev.json
+d:\GITHUB\.NET_training\Revisao\bin\Debug\netcoreapp3.1\Revisao.dll
+d:\GITHUB\.NET_training\Revisao\bin\Debug\netcoreapp3.1\Revisao.pdb
+d:\GITHUB\.NET_training\Revisao\obj\Debug\netcoreapp3.1\Revisao.csprojAssemblyReference.cache
+d:\GITHUB\.NET_training\Revisao\obj\Debug\netcoreapp3.1\Revisao.AssemblyInfoInputs.cache
+d:\GITHUB\.NET_training\Revisao\obj\Debug\netcoreapp3.1\Revisao.AssemblyInfo.cs
+d:\GITHUB\.NET_training\Revisao\obj\Debug\netcoreapp3.1\Revisao.csproj.CoreCompileInputs.cache
+d:\GITHUB\.NET_training\Revisao\obj\Debug\netcoreapp3.1\Revisao.dll
+d:\GITHUB\.NET_training\Revisao\obj\Debug\netcoreapp3.1\Revisao.pdb
+d:\GITHUB\.NET_training\Revisao\obj\Debug\netcoreapp3.1\Revisao.genruntimeconfig.cache

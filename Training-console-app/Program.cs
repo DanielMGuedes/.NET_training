@@ -10,7 +10,7 @@ namespace Training_console_app
 
             for (int i=0; i < nrdevezes; i++)
             {
-                Console.WriteLine($"Olá Daniel! Você está avançando! .NET {i}");
+                Console.WriteLine($"Olá Daniel! Você está avançando!  Mas precisa Treinar mais .NET {i}");
             }
         }
     }
